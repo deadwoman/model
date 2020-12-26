@@ -789,8 +789,8 @@ ol {
 }
 
 .about-img img {
-  width: 515px;
-  height: 515px;
+  width: 215px;
+  height: 215px;
   border-radius: 50%;
   margin: 82px auto 50px;
 }
@@ -856,7 +856,7 @@ ol {
 .about-text h2 {
   display: inline-block;
   padding-bottom: 8px;
-  border-bottom: 3px solid #ffdf00;
+  border-bottom: 3px solid #000000;
   margin-bottom: 20px;
 }
 
