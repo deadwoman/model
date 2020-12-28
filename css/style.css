@@ -365,7 +365,7 @@ ol {
 }
 
 .site-logo {
-  background: #ffdf00;
+  background: #000000;
   width: calc(100% - 90px);
   display: -webkit-box;
   display: -ms-flexbox;
